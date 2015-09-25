@@ -1,0 +1,25 @@
+A_Resource_Whose_Name = pub.priest.servicebook_por_moz_oam
+
+li.servicebook.title = "A Divina Liturgia"
+li.servicebook.title2 = "de nosso pai entre os santos"
+li.servicebook.title3 = "João Crisóstomo"
+
+doxapatrikainyn = " Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+
+li.preparation.preliminaries.title = "Ritos Iniciais"
+li.priestpreparation.title = "I - Preparação do Sacerdote (Kairos)"
+li.holydoors.title = "Orações diante da Porta Santa"
+li.iconprayers.title = "Orações diante dos Ícones"
+li.vesting.title = "Paramentação"
+
+li.preparation.mercy2 = "Perdoa-me ó Deus, e tem piedade de mim, pecador!"
+li.preparation.kyrieexaposteilon = "Senhor, estende teu braço do alto da tua morada e fortalece-me para o teu santo serviço que estou para desempenhar, a fim de que, apresentando-me irrepreensível diante de teu altar temível, possa eu oferecer o sacrifício incruento. Porque a Ti pertencem o poder e a glória pelos séculos dos séculos. Amém."
+
+li.rubric.part1 = "Esta primeira parte da Liturgia é feita sem a participação do povo."
+li.rubric.enteringbows = "Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:"
+li.rubric.open = "O diácono ou sacerdote abre a porta santa no momento que se diz essa oração."
+li.rubric.iconchrist = "Inclinando-se diante do ícone de Cristo, o sacerdote prossegue:"
+li.rubric.aftervenerating = "Diante da Porta Santa"
+li.rubric.entrance = "O sacerdote faz três reverências diante da porta real, vira-se para o povo pedindo-lhe perdão com uma inclinação da cabeça, entra no santuário, dizendo:"
+li.rubric.veneratealtar = "Beija o evangeliário e o altar e vai se paramentar no diakonikon."
+li.rubric.boweast = "O sacerdote faz três reverências diante de seus paramentos, dizendo a cada vez:"
