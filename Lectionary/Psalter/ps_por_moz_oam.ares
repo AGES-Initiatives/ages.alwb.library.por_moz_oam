@@ -1,3 +1,22 @@
 A_Resource_Whose_Name = ps_por_moz_oam
 
 psa5.v8.text = "Entrarei na tua casa, e com teu temor me prostrarei diante de teu templo."
+
+psa17.v33.text = "que me cinge de força e torna irrepreensível o meu caminho."
+
+psa25.v6.text = "Na inocência lavo as minhas mãos e me acerco do teu altar, Senhor,"
+psa25.v7.text = "para ouvir a voz dos teus louvores e proclamar todas as tuas maravilhas."
+psa25.v8.text = "Senhor, eu amo a beleza da tua casa e o lugar onde habita a tua glória."
+psa25.v9.text = "Não deixa que se perca a minha alma com os ímpios nem a minha vida com os homens perversos,"
+psa25.v10.text = "em cujas mãos está a iniqüidade e cuja destra está cheia de subornos."
+psa25.v11.text = "Eu, porém, tenho andado na inocência; resgata-me e tem piedade de mim."
+psa25.v12.text = "Meu pé está firme no caminho reto; louvar-te-ei, Senhor, nas assembléias dos justos."
+
+psa44.v4.text = "Cingi a tua espada ao teu lado, ó poderoso; em teu esplendor e tua beleza,"
+psa44.v5.text = "caminha vitorioso e reina por meio da verdade, da mansidão e da justiça; e a tua destra te conduzirá admiravelmente."
+
+psa118.v73.text = "Tuas mãos me fizeram e me formaram; dá-me inteligência, Senhor, e aprenderei os teus mandamentos."
+
+psa131.v9alt.text = "Revistam-se de justiça os teus sacerdotes, e exultem de júbilo os teus santos."
+
+psa132.v2.text = "como o perfume sobre a cabeça, que desce sobre a barba, a barba de Aarão, que desce sobre a orla de sua túnica."

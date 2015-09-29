@@ -7,8 +7,28 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|holydoors|title', 'text' : 'Orações diante da Porta Santa'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|iconprayers|title', 'text' : 'Orações diante dos Ícones'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|vesting|title', 'text' : 'Paramentação'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|proskomidi|title', 'text' : 'II – A Proskomídia'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|proskomidi|title2', 'text' : 'Preparação dos Santos Dons'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|wineandwater|title', 'text' : 'O Vinho e a Água'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|mercy2', 'text' : 'Perdoa-me ó Deus, e tem piedade de mim, pecador!'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|kyrieexaposteilon', 'text' : 'Senhor, estende teu braço do alto da tua morada e fortalece-me para o teu santo serviço que estou para desempenhar, a fim de que, apresentando-me irrepreensível diante de teu altar temível, possa eu oferecer o sacrifício incruento. Porque a Ti pertencem o poder e a glória pelos séculos dos séculos. Amém.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|agalliasetai', 'text' : 'Minha alma exulta no Senhor, porque me revestiu com a veste da salvação e me envolveu com a túnica da alegria; como um esposo, colocou na minha cabeça uma coroa e me adornou como uma esposa.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|blessepitrachilion|p1', 'text' : 'Bendito seja Deus que derrama a graça sobre seus sacerdotes,'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|blesszoni|p1', 'text' : 'Bendito seja Deus'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|blessrightcuff', 'text' : 'Tua direita, Senhor, em tua força, cobriu-se de glória; tua mão direita, Senhor, aniquilou os inimigos. Na plenitude de tua glória, destruíste os teus adversários.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|inmemory', 'text' : 'Em memória de Nosso Senhor, Deus e Salvador, Jesus Cristo.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|pierce', 'text' : 'Como ovelha, ó Cristo Rei, foste conduzido ao matadouro!'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|cutleft', 'text' : 'E, como cordeiro inocente diante do tosquiador, não abriu sequer a boca.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|cuttop', 'text' : 'Na sua humildade o seu julgamento foi exaltado.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|cutbottom', 'text' : 'Quem narrará a sua descendência?'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|lift', 'text' : 'Apanha, Mestre.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|sacrifice', 'text' : 'Sacrifica, Mestre.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|removelamb', 'text' : 'Pois a sua vida foi arrebatada da terra.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|cutlamb', 'text' : 'O Cordeiro de Deus que tira o pecado do mundo é imolado pela vida e pela salvação do mundo.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|pierce2', 'text' : 'Perfura, Mestre.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|pierce3', 'text' : 'E um dos soldados abriu-lhe o lado com uma lança e imediatamente saiu sangue e água. Aquele que viu é que dá testemunho e seu testemunho é verdadeiro.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|holyunion', 'text' : 'Mestre, abençoa esta união.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|blessunion', 'text' : 'Bendita seja a união dos teus santos dons, agora e sempre, pelos séculos dos séculos.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|part1', 'text' : 'Esta primeira parte da Liturgia é feita sem a participação do povo.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|enteringbows', 'text' : 'Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|open', 'text' : 'O diácono ou sacerdote abre a porta santa no momento que se diz essa oração.'}
@@ -17,3 +37,24 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|entrance', 'text' : 'O sacerdote faz três reverências diante da porta real, vira-se para o povo pedindo-lhe perdão com uma inclinação da cabeça, entra no santuário, dizendo:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|veneratealtar', 'text' : 'Beija o evangeliário e o altar e vai se paramentar no diakonikon.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|boweast', 'text' : 'O sacerdote faz três reverências diante de seus paramentos, dizendo a cada vez:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|wearsticharion', 'text' : 'E, benzendo os paramentos, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|prayereachvestment', 'text' : 'E, vestindo cada peça de seus paramentos, beija e diz a oração própria.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|sticharionpriest', 'text' : 'Estichárion (túnica)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|epitrachilion', 'text' : 'Epitrachílion (estola)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|zoni', 'text' : 'Zone (cinto ou faixa)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|rightcuff', 'text' : 'Epimanikias (punho direito)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|leftcuff', 'text' : 'Epimanikias (punho esquerdo)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|epigonation', 'text' : 'Hipogonátion'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|felonion', 'text' : 'Felônion (casula)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|washhands', 'text' : 'Lavabo'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|bowthriceprothesis', 'text' : 'O sacerdote vai ao altar da prótese e faz três inclinações dizendo a cada vez:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|liftinghands', 'text' : 'Estende as mãos e diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|crossprosfora', 'text' : 'Segurando com a mão esquerda o pão e com a mão direita a lança traça, por três vezes, o sinal da cruz sobre o selo dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|pierce', 'text' : 'Logo corta com a lança no lado direito do selo da prósfora dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cutleft', 'text' : 'Cortando em seguida no lado esquerdo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cuttop', 'text' : 'No lado superior do selo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cutbottom', 'text' : 'No lado inferior:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|invertlamb', 'text' : 'Retira com a lança a parte cortada, que se chama “Cordeiro”, deposita-a no disco com o selo para baixo, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cutlamb', 'text' : 'Incide-o, em seguida, em forma de cruz, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|pierce2', 'text' : 'Vira o Cordeiro do lado que leva impresso o selo e transpassa-o com a lança abaixo da monograma “IC”, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|mixchalice', 'text' : 'O sacerdote derrama no cálice vinho e água dizendo:'}
