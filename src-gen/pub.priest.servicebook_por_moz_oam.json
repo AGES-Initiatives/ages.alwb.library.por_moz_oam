@@ -10,6 +10,9 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|proskomidi|title', 'text' : 'II – A Proskomídia'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|proskomidi|title2', 'text' : 'Preparação dos Santos Dons'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|wineandwater|title', 'text' : 'O Vinho e a Água'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|commemoration|title', 'text' : 'As Partículas de Comemoração'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|incense|title', 'text' : 'Oração do Incenso'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|cover|title', 'text' : 'Cobrindo os Santos Dons'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|mercy2', 'text' : 'Perdoa-me ó Deus, e tem piedade de mim, pecador!'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|kyrieexaposteilon', 'text' : 'Senhor, estende teu braço do alto da tua morada e fortalece-me para o teu santo serviço que estou para desempenhar, a fim de que, apresentando-me irrepreensível diante de teu altar temível, possa eu oferecer o sacrifício incruento. Porque a Ti pertencem o poder e a glória pelos séculos dos séculos. Amém.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|agalliasetai', 'text' : 'Minha alma exulta no Senhor, porque me revestiu com a veste da salvação e me envolveu com a túnica da alegria; como um esposo, colocou na minha cabeça uma coroa e me adornou como uma esposa.'}
@@ -29,6 +32,25 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|pierce3', 'text' : 'E um dos soldados abriu-lhe o lado com uma lança e imediatamente saiu sangue e água. Aquele que viu é que dá testemunho e seu testemunho é verdadeiro.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|holyunion', 'text' : 'Mestre, abençoa esta união.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|blessunion', 'text' : 'Bendita seja a união dos teus santos dons, agora e sempre, pelos séculos dos séculos.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|anotherprosfora', 'text' : 'Em honra e memória da nossa bem-aventurada e gloriosa Senhora, a Mãe de Deus e sempre Virgem Maria. Por sua intercessão, digna-te aceitar, Senhor, este sacrifício sobre o teu altar celestial.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank1', 'text' : 'Em honra e em memória dos dois grandes chefes das legiões angélicas, Miguel e Gabriel e de todas as potências celestes e incorpóreas.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank2', 'text' : 'Em honra do venerável profeta e glorioso precursor João Batista e dos santos e gloriosos profetas Moisés e Aarão, Elias, Eliseu e Isaías, Davi, filho de Jessé e dos três santos jovens, Daniel o profeta e de todos os santos profetas.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank3', 'text' : 'Dos santos e gloriosos apóstolos, Pedro e Paulo, dignos de todo louvor, e de todos os santos apóstolos. Dos nossos santos padres, Basílio, o Grande, Gregório, o Teólogo, e João Crisóstomo, Atanásio e Cirilo, Nicolau, bispo de Mirra, e de todos os santos Padres e Bispos.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank4', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank5', 'text' : 'De Santo Estevão, protomártir e arquidiácono e dos santos e gloriosos mártires Demétrio, Jorge, Teodoro; e de todos os santos e santas mártires.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank6', 'text' : 'Dos nossos pais justos e revestidos de Deus, os monges Antão, Eutímio, Sábas, Onofre, Atanásio de Monte Athos, e de todos os santos e santas ascetas.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank7', 'text' : 'Dos santos taumaturgos e anárgiros Cosme e Damião, Ciro e João, Pantaleímon e Hermolau; e de todos os santos anárgiros.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank8', 'text' : 'Dos santos e justos avós do Senhor, Joaquim e Ana; de S. N. ... , padroeiro desta igreja; de S. N. ... , que hoje comemoramos; por suas orações, digna-te visitar-nos, Senhor nosso Deus.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|rank9', 'text' : 'Do nosso santo padre João Crisóstomo*, arcebispo de Constantinopla. <br> (*ou, se a Liturgia for de São Basílio: ...do nosso santo padre Basílio o Grande, arcebispo de Cesaréia da Capadócia).'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|particlebishop', 'text' : 'Lembra-te, Senhor misericordioso, de todo o episcopado ortodoxo: de nosso santo pai o patriarca N. ... , do nosso Metropolita N. ... , (arcebispo, ou bispo) da venerável ordem dos presbíteros e dos diáconos em Cristo e de todo clero; dos nossos amados irmãos concelebrantes e de todos os nossos irmãos e irmãs que, na tua benevolência, chamaste à tua comunhão, ó Senhor cheio de bondade!'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|remembercountry', 'text' : 'Lembra-te, Senhor, da nossa pátria e de todas as autoridades.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|particlesfounders', 'text' : 'Em memória e pela remissão dos pecados dos fundadores deste santo templo'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|particlesdeparted2', 'text' : 'e de todos os que morreram na esperança da ressurreição e da vida eterna na tua comunhão, Senhor, e de todos os nossos irmãos ortodoxos falecidos.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|particlepriest', 'text' : 'Lembra-te, Senhor, também de mim, teu indigno servo, e perdoa-me as minhas faltas voluntárias e involuntárias.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|prayerincense', 'text' : 'Nós te oferecemos este incenso, ó Cristo nosso Deus, como um perfume de suavidade espiritual; digna-te recebê-lo no teu altar celeste e derrama sobre nós a graça do teu Santíssimo Espírito.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|placestar', 'text' : 'Assim que a estrela chegou, ela parou sobre o lugar onde estava o menino.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|cover', 'text' : 'Cobre, Mestre.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|coverchalice', 'text' : 'A tua majestade, ó Cristo, recobriu os céus; e a terra está repleta do teu louvor!'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|part1', 'text' : 'Esta primeira parte da Liturgia é feita sem a participação do povo.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|enteringbows', 'text' : 'Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|open', 'text' : 'O diácono ou sacerdote abre a porta santa no momento que se diz essa oração.'}
@@ -58,3 +80,13 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cutlamb', 'text' : 'Incide-o, em seguida, em forma de cruz, dizendo:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|pierce2', 'text' : 'Vira o Cordeiro do lado que leva impresso o selo e transpassa-o com a lança abaixo da monograma “IC”, dizendo:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|mixchalice', 'text' : 'O sacerdote derrama no cálice vinho e água dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|anotherprosfora', 'text' : 'Corta do segundo pão (ou do mesmo) uma partícula triangular em honra à Mãe de Deus, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|theotokosparticle', 'text' : 'E, pondo-a do lado direita do Cordeiro, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|saintparticles', 'text' : 'Em seguida, corta do mesmo pão, ou de um terceiro, nove partículas triangulares e as coloca no disco, dispondo-as em três fileiras verticais, à esquerda do Cordeiro, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|particlebishop', 'text' : 'E, tomando um quarto pão, extrai uma partícula que coloca debaixo do Cordeiro, no lado esquerdo do disco, enquanto diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|particlesall', 'text' : 'Em seguida o sacerdote comemorará as pessoas vivas que lhe são caras e que se recomendaram às suas orações. Em primeiro lugar, fará memória do bispo que o ordenou, caso pertença ainda ao número dos vivos. Cortando de um quinto pão (ou do mesmo) partículas que colocará na parte inferior do Cordeiro, em memória dos vivos, numa outra fileira, na parte inferior do Cordeiro, em memória dos mortos, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|particlepriest', 'text' : 'Finalmente, destaca uma partícula para si mesmo, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|takecenser', 'text' : 'O diácono apresenta o turíbulo ao sacerdote que, abençoando o incenso, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|placestar', 'text' : 'Toma o asterisco, aproxima-o antes do turíbulo fumegante e, colocando-o em seguida sobre o Cordeiro, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|placeveil', 'text' : 'Aproxima o véu do turíbulo e, cobrindo com ele o asterisco e o disco, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|coverchalice', 'text' : 'Toma um segundo véu aproxima-o do turíbulo e, cobrindo com ele o cálice, diz:'}
