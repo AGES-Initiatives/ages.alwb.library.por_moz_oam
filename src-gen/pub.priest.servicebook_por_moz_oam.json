@@ -50,6 +50,9 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|placestar', 'text' : 'Assim que a estrela chegou, ela parou sobre o lugar onde estava o menino.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|cover', 'text' : 'Cobre, Mestre.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|coverchalice', 'text' : 'A tua majestade, ó Cristo, recobriu os céus; e a terra está repleta do teu louvor!'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|shelter', 'text' : 'Cobre, Mestre.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|coverboth', 'text' : 'Acolhe-nos, Senhor, ao abrigo das tuas asas. Afasta de nós todo o inimigo e adversário e concede-nos que vivamos em paz. Tem piedade de nós e do teu mundo e salva, ó Filantropo, as nossas almas!'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|wellpleased', 'text' : 'Bendito seja o nosso Deus, pois assim se cumpriu a sua vontade.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|part1', 'text' : 'Esta primeira parte da Liturgia é feita sem a participação do povo.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|enteringbows', 'text' : 'Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|open', 'text' : 'O diácono ou sacerdote abre a porta santa no momento que se diz essa oração.'}
@@ -89,3 +92,5 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|placestar', 'text' : 'Toma o asterisco, aproxima-o antes do turíbulo fumegante e, colocando-o em seguida sobre o Cordeiro, diz:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|placeveil', 'text' : 'Aproxima o véu do turíbulo e, cobrindo com ele o asterisco e o disco, diz:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|coverchalice', 'text' : 'Toma um segundo véu aproxima-o do turíbulo e, cobrindo com ele o cálice, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|coverboth', 'text' : 'Aproxima do turíbulo o grande véu e, cobrindo com ele o cálice e a patena, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censegifts', 'text' : 'O sacerdote incensa por três vezes o altar da prótese, dizendo:'}

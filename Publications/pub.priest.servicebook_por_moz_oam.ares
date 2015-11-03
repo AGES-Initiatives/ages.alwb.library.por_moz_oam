@@ -55,6 +55,9 @@ li.preparation.particlepriest = "Lembra-te, Senhor, também de mim, teu indigno 
 li.preparation.placestar = "Assim que a estrela chegou, ela parou sobre o lugar onde estava o menino."
 li.preparation.cover = "Cobre, Mestre."
 li.preparation.coverchalice = "A tua majestade, ó Cristo, recobriu os céus; e a terra está repleta do teu louvor!"
+li.preparation.shelter = "Cobre, Mestre."
+li.preparation.coverboth = "Acolhe-nos, Senhor, ao abrigo das tuas asas. Afasta de nós todo o inimigo e adversário e concede-nos que vivamos em paz. Tem piedade de nós e do teu mundo e salva, ó Filantropo, as nossas almas!"
+li.preparation.wellpleased = "Bendito seja o nosso Deus, pois assim se cumpriu a sua vontade."
 
 li.rubric.part1 = "Esta primeira parte da Liturgia é feita sem a participação do povo."
 li.rubric.enteringbows = "Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:"
@@ -95,3 +98,5 @@ li.rubric.takecenser = "O diácono apresenta o turíbulo ao sacerdote que, aben�
 li.rubric.placestar = "Toma o asterisco, aproxima-o antes do turíbulo fumegante e, colocando-o em seguida sobre o Cordeiro, diz:"
 li.rubric.placeveil = "Aproxima o véu do turíbulo e, cobrindo com ele o asterisco e o disco, diz:"
 li.rubric.coverchalice = "Toma um segundo véu aproxima-o do turíbulo e, cobrindo com ele o cálice, diz:"
+li.rubric.coverboth = "Aproxima do turíbulo o grande véu e, cobrindo com ele o cálice e a patena, diz:"
+li.rubric.censegifts = "O sacerdote incensa por três vezes o altar da prótese, dizendo:"
