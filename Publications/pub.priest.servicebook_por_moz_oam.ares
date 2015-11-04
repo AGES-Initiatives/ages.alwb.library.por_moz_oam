@@ -8,6 +8,7 @@ doxapatrikainyn = " Glória ao Pai, ao Filho e ao Espírito Santo, agora e semp
 
 li.preparation.preliminaries.title = "Ritos Iniciais"
 li.priestpreparation.title = "I - Preparação do Sacerdote (Kairos)"
+li.preparation.protheseos.title = "Oração da Proskomidia"
 li.holydoors.title = "Orações diante da Porta Santa"
 li.iconprayers.title = "Orações diante dos Ícones"
 li.vesting.title = "Paramentação"
@@ -58,6 +59,8 @@ li.preparation.coverchalice = "A tua majestade, ó Cristo, recobriu os céus; e 
 li.preparation.shelter = "Cobre, Mestre."
 li.preparation.coverboth = "Acolhe-nos, Senhor, ao abrigo das tuas asas. Afasta de nós todo o inimigo e adversário e concede-nos que vivamos em paz. Tem piedade de nós e do teu mundo e salva, ó Filantropo, as nossas almas!"
 li.preparation.wellpleased = "Bendito seja o nosso Deus, pois assim se cumpriu a sua vontade."
+li.preparation.protheseosprayer = "Ó Deus, nosso Deus, que enviaste o Pão Celeste, alimento para todos, o Senhor e Deus nosso Jesus Cristo, Salvador, Redentor e Benfeitor que nos abençoa e nos santifica; digna-te abençoar esta oblação e aceitá-la no teu altar celeste. Lembra-te, ó Filantropo, de todos aqueles por quem é oferecida e preserva-nos de incorrermos em condenação ao celebrarmos os teus divinos mistérios. Pois, o teu nome é santificado e glorificado, Pai, Filho e Espírito Santo, a todo o momento, agora e sempre, pelos séculos dos séculos. Amém."
+li.preparation.commemmorationchrysostom = "do nosso santo padre João Crisóstomo, arcebispo de Constantinopla, (e se a Liturgia for de São Basílio: do nosso santo padre Basílio o Grande, arcebispo de Cesaréia da Capadócia),"
 
 li.rubric.part1 = "Esta primeira parte da Liturgia é feita sem a participação do povo."
 li.rubric.enteringbows = "Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:"
@@ -100,3 +103,6 @@ li.rubric.placeveil = "Aproxima o véu do turíbulo e, cobrindo com ele o asteri
 li.rubric.coverchalice = "Toma um segundo véu aproxima-o do turíbulo e, cobrindo com ele o cálice, diz:"
 li.rubric.coverboth = "Aproxima do turíbulo o grande véu e, cobrindo com ele o cálice e a patena, diz:"
 li.rubric.censegifts = "O sacerdote incensa por três vezes o altar da prótese, dizendo:"
+li.rubric.bowgifts = "Faz três reverências e, tomando o turíbulo, recita a Oração da Proskomídia:"
+li.rubric.dismissal = "Apólissis"
+li.rubric.ifsunday = "Então, o seguinte hino ressurreição é cantada:"

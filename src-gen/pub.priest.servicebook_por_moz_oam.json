@@ -4,6 +4,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|doxapatrikainyn', 'text' : ' Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|preliminaries|title', 'text' : 'Ritos Iniciais'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|priestpreparation|title', 'text' : 'I - Preparação do Sacerdote (Kairos)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|protheseos|title', 'text' : 'Oração da Proskomidia'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|holydoors|title', 'text' : 'Orações diante da Porta Santa'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|iconprayers|title', 'text' : 'Orações diante dos Ícones'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|vesting|title', 'text' : 'Paramentação'}
@@ -53,6 +54,8 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|shelter', 'text' : 'Cobre, Mestre.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|coverboth', 'text' : 'Acolhe-nos, Senhor, ao abrigo das tuas asas. Afasta de nós todo o inimigo e adversário e concede-nos que vivamos em paz. Tem piedade de nós e do teu mundo e salva, ó Filantropo, as nossas almas!'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|wellpleased', 'text' : 'Bendito seja o nosso Deus, pois assim se cumpriu a sua vontade.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|protheseosprayer', 'text' : 'Ó Deus, nosso Deus, que enviaste o Pão Celeste, alimento para todos, o Senhor e Deus nosso Jesus Cristo, Salvador, Redentor e Benfeitor que nos abençoa e nos santifica; digna-te abençoar esta oblação e aceitá-la no teu altar celeste. Lembra-te, ó Filantropo, de todos aqueles por quem é oferecida e preserva-nos de incorrermos em condenação ao celebrarmos os teus divinos mistérios. Pois, o teu nome é santificado e glorificado, Pai, Filho e Espírito Santo, a todo o momento, agora e sempre, pelos séculos dos séculos. Amém.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|commemmorationchrysostom', 'text' : 'do nosso santo padre João Crisóstomo, arcebispo de Constantinopla, (e se a Liturgia for de São Basílio: do nosso santo padre Basílio o Grande, arcebispo de Cesaréia da Capadócia),'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|part1', 'text' : 'Esta primeira parte da Liturgia é feita sem a participação do povo.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|enteringbows', 'text' : 'Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|open', 'text' : 'O diácono ou sacerdote abre a porta santa no momento que se diz essa oração.'}
@@ -94,3 +97,6 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|coverchalice', 'text' : 'Toma um segundo véu aproxima-o do turíbulo e, cobrindo com ele o cálice, diz:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|coverboth', 'text' : 'Aproxima do turíbulo o grande véu e, cobrindo com ele o cálice e a patena, diz:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censegifts', 'text' : 'O sacerdote incensa por três vezes o altar da prótese, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|bowgifts', 'text' : 'Faz três reverências e, tomando o turíbulo, recita a Oração da Proskomídia:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|dismissal', 'text' : 'Apólissis'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|ifsunday', 'text' : 'Então, o seguinte hino ressurreição é cantada:'}
