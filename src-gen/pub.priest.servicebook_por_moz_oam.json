@@ -100,3 +100,21 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|bowgifts', 'text' : 'Faz três reverências e, tomando o turíbulo, recita a Oração da Proskomídia:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|dismissal', 'text' : 'Apólissis'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|ifsunday', 'text' : 'Então, o seguinte hino ressurreição é cantada:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|apolysis', 'text' : 'Em seguida, os Ektenes e a Apolysis são ditas em voz baixa dentro do santuário em frente à mesa santa.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|liturgy|title', 'text' : 'A Divina Liturgia'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|censing|title', 'text' : 'Incensarão'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|altar|title', 'text' : 'Orações diante do Altar'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|liturgycatechumens|title', 'text' : 'Liturgia dos Catecúmenos'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|litanypeace|title', 'text' : 'Ladainha da Paz'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|antifon1|title', 'text' : 'A primeira Antífona'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|smalllitany|title', 'text' : 'A pequena Ladainha'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|antifon2|title', 'text' : 'A segunda Antífona'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense', 'text' : 'O sacerdote incensa o altar nos quatro lados, rezando silenciosamente:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense2', 'text' : 'Prossegue incensando os ícones, a igreja, os fiéis e novamente o altar. Durante a incensarão recita as orações penitenciais e o salmo 50 (51).'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|heavenlyking', 'text' : 'Depois, de braços abertos diante do altar pede a assistência do Espírito Santo, dizendo em voz baixa:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|bowthricealtar', 'text' : 'E, fazendo três reverências diante do altar:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|beginliturgy', 'text' : 'Em seguida, beija o evangeliário e o altar e, traçando verticalmente com ele o sinal da cruz sobre o antimênsion, canta solenemente:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|deaconpositionantifon1', 'text' : 'Durante o canto da primeira antífona o diácono coloca-se diante do ícone do Salvador.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|deaconlitany', 'text' : 'O diácono retoma seu lugar diante das portas santas para o canto da pequena ladainha.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|deaconpositionantifon2', 'text' : 'Durante o canto da segunda antífona o diácono coloca-se diante do ícone da Mãe de Deus.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|entersouth', 'text' : 'O diácono faz uma reverência e entra no santuário. O sacerdote reza silenciosamente a oração da terceira antífona.'}
