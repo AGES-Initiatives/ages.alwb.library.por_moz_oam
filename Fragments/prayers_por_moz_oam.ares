@@ -1,11 +1,15 @@
 A_Resource_Whose_Name = prayers_por_moz_oam
 
+Allilouia3.text = "Aleluia, Aleluia, Aleluia."
+
 AgiosOTheos.text = "Santo Deus, Santo forte, Santo imortal, tem piedade de nós."
 
 DoxaPatri.text = "Glória ao Pai, ao Filho e ao Espírito Santo."
 KaiNynKaiAei.text = "Agora e sempre, pelos séculos dos séculos. Amém."
 
 DoxaSoiChriste2 = "Glória a Ti, ó Cristo Deus, esperança nossa, glória a Ti!"
+
+DoxaSoiKyrie = "Glória a Ti, Senhor, glória a Ti."
 
 DoxaSoiOTheosImon.text = "Glória a Ti, ó nosso Deus, glória a Ti!"
 
@@ -49,11 +53,19 @@ pet13 = "Comemorando nossa Santíssima, Puríssima Bem Aventurada e Gloriosa Sen
 
 pet14 = "Novamente, em paz, oremos ainda ao Senhor."
 
+pet31 = "Paz a todos."
+
+epi02 = "Paz a ti, leitor."
+
+gos02 = "Ouçamos o Santo Evangelho."
+
 res01 = "Senhor, tem piedade."
 
 res03 = "A ti, ó Senhor."
 
 res04 = "Amém."
+
+res05 = "E ao teu espirito."
 
 res08 = "Abençoa, Mestre."
 
@@ -62,5 +74,15 @@ exc01 = "Porque a Ti pertence toda glória, honra e adoração, Pai, Filho e Esp
 exc02 = "Porque a Ti pertence o domínio, e Teu é o reino, o poder e a glória, Pai, Filho, e Espírito Santo, agora e sempre e pelos séculos dos séculos."
 
 exc03 = "Pois Tu és um Deus bom e benevolente e a Ti rendemos glória, Pai, Filho, e Espírito Santo, agora e sempre e pelos séculos dos séculos."
+
+exc05a = "Pois Tu és Santo, ó Deus nosso, e a Ti rendemos glória, Pai, Filho, e Espirito Santo, agora e sempre..."
+
+exc05b = "... e pelos séculos dos séculos."
+
+exc17 = "A Sabedoria!"
+
+exc18 = "Estejam atentos!"
+
+exc19 = "Estejamos atentos."
 
 exc20 = "Porque teu é o reino, o poder e a glória, Pai, Filho e Espírito Santo, agora e sempre, pelos séculos dos séculos. Amém."

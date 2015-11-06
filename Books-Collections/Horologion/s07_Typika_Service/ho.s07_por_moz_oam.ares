@@ -1,3 +1,14 @@
 A_Resource_Whose_Name = ho.s07_por_moz_oam
 
 hoLI.OnlyBegotten.text = "Ó Filho único, Verbo de Deus, que embora imortal condescendeste para a nossa salvação em encarnar no seio da Santíssima Mãe de Deus e sempre Virgem Maria, e te tornaste homem sem sofrer alteração, foste crucificado, Cristo Deus, vencendo a morte com a Tua morte, Tu que fazes parte da Trindade Santíssima e És glorificado com o Pai e o Espírito Santo, salva-nos."
+
+hoLI.EntranceHymn.text = "Vinde, adoremos e prostremo-nos diante de Cristo."
+hoLI.Antiphon21.text = "Salva-nos, Filho de Deus,"
+hoLI.EntranceHymn2s.text = "que ressuscitaste dos mortos,"
+hoLI.Antiphon22.text = "a nós que Te cantamos: Aleluia."
+
+hoTY.Key0408.text = "Ó admirável e protetora dos cristãos e nossa medianeira do Criador, não desprezes as súplicas de nenhum de nós pecadores, mas apressa-te em auxiliar-nos como Mãe bondosa que és, pois te invocamos com fé: roga por nós, junto de Deus, tu que defendes sempre aqueles que te veneram!"
+
+hoLI.TrisagiosHymn.text = "Santo Deus, Santo Poderoso, Santo Imortal, tem piedade de nós."
+hoLI.TrisagiosHymn3.text = "Santo Imortal,"
+hoLI.TrisagiosHymn4.text = "tem piedade de nós."
