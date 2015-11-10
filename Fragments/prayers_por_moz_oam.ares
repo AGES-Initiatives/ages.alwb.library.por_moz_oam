@@ -39,6 +39,8 @@ pet06 = "Pelo nosso santo Papa o Patriarco (nome), pelo nosso Bispo (nome), pelo
 
 pet07S = "Por este país, pelo presidente, e por todos em serviço publico, oremos ao Senhor."
 
+pet07Sa = "Novamente oremos pelo Presidente, por todas autoridades civis, e pelas forças armadas."
+
 pet08 = "Por esta cidade, por todas as cidades e países e pelos fiéis que nelas habitam, oremos ao Senhor."
 
 pet09 = "Pela salubridade do ar, pela abundância dos frutos da terra e por tempos pacíficos, oremos ao Senhor."
@@ -52,6 +54,16 @@ pet12 = "Protege-nos, salva-nos, tem piedade de nós e guarda-nos, ó Deus, pela
 pet13 = "Comemorando nossa Santíssima, Puríssima Bem Aventurada e Gloriosa Senhora, a Mãe de Deus e sempre Virgem Maria, com todos os Santos, encomendemo-nos mutuamente uns aos outros e toda a nossa vida a Cristo Deus."
 
 pet14 = "Novamente, em paz, oremos ainda ao Senhor."
+
+pet15 = "Digamos todos, com toda a nossa alma, e com todo o nosso espírito, digamos:"
+
+pet16 = "Senhor Onipotente, Deus de nossos pais, nós Te suplicamos: ouve-nos e tem piedade de nós."
+
+pet17 = "Tem piedade de nós, ó Deus, segundo a Tua grande misericórdia, nós Te suplicamos ouve-nos e tem piedade de nós."
+
+pet20 = "Novamente oremos pelos nossos irmãos, sacerdotes, monges e por toda nossa irmandade em Cristo."
+
+pet23 = "Novamente oremos pelos benfeitores e os que trazem suas oferendas a este Santo Templo, pelos que nele trabalham, cantam e pelo povo aqui presente, que esperam de Ti grande e abundante misericórdia."
 
 pet31 = "Paz a todos."
 
@@ -78,6 +90,8 @@ exc03 = "Pois Tu és um Deus bom e benevolente e a Ti rendemos glória, Pai, Fil
 exc05a = "Pois Tu és Santo, ó Deus nosso, e a Ti rendemos glória, Pai, Filho, e Espirito Santo, agora e sempre..."
 
 exc05b = "... e pelos séculos dos séculos."
+
+exc11 = "Pois Tu és um Deus misericordioso e benevolente, e a Ti rendemos glória, Pai, Filho e Espírito Santo, agora e sempre e pelos séculos dos séculos."
 
 exc17 = "A Sabedoria!"
 

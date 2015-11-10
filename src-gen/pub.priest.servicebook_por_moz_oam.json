@@ -111,10 +111,20 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|antifon2|title', 'text' : 'A segunda Antífona'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|smallentrance|title', 'text' : 'Intróito'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|gospel|title', 'text' : 'Evangelho'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|greatlitany|title', 'text' : 'Ladainha Insistente'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|catechumens', 'text' : 'Ladainha dos Catecúmenos'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|liturgyfaithful|title', 'text' : 'Liturgia Dos Fiéis'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|cherubic|title', 'text' : 'Hino dos Querubins'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|greatentrance|title', 'text' : 'Grande Intróito'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|prokimenonmode', 'text' : 'Prokimenon …'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|exclight', 'text' : 'Pois Tu és a luz de nossas almas e de nossos corpos, ó Cristo nosso Deus, e nós te glorificamos, assim como ao teu eterno Pai e ao teu santíssimo, bom e vivificante Espírito, agora e sempre, pelos séculos dos séculos.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessreader', 'text' : 'Abençoa, Senhor, o anunciante do Evangelho do Apóstolo e Evangelista (...nome do santo).'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessreader2', 'text' : 'Que Deus pelas orações do santo, glorioso e ilustre Apóstolo e Evangelista (nome...) te conceda a palavra para anunciar com grande poder o cumprimento do Evangelho de Seu Filho amado, Nosso Senhor Jesus Cristo.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|pet19lash', 'text' : 'Novamente oremos pelo nosso Papa e Patriarca (nome) e pelo nosso Bispo (nome) e por todos nossos irmãos em Cristo.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|pet22lash', 'text' : 'Novamente oremos pelos bem aventurados e sempre lembrados Patriarcas Ortodoxos, pelos devotos reis e rainhas e pelos fundadores desta Santa Igreja e por todos os nossos pais e irmãos ortodoxos falecidos, que descansam aqui ou em qualquer outro lugar.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|Key1101b', 'text' : 'Pois és Tu que ofereces e és oferecido, recebes e és distribuído, ó Cristo nosso Deus; e nós te glorificamos com teu Pai eterno e com o teu santíssimo, bom e vivificante Espírito, agora e sempre, pelos séculos dos séculos. Amém.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|cherubic2', 'text' : 'para que possamos receber o Rei do universo, invisivelmente escoltado por legiões de Anjos. Aleluia, aleluia, aleluia!'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|eparon', 'text' : 'Levanta, Mestre.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense', 'text' : 'O sacerdote incensa o altar nos quatro lados, rezando silenciosamente:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense2', 'text' : 'Prossegue incensando os ícones, a igreja, os fiéis e novamente o altar. Durante a incensarão recita as orações penitenciais e o salmo 50 (51).'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|heavenlyking', 'text' : 'Depois, de braços abertos diante do altar pede a assistência do Espírito Santo, dizendo em voz baixa:'}
@@ -136,4 +146,9 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|withverses', 'text' : 'O leitor, alternando com o coro, salmodia os versículos aleluiáticos tomados do Próprio da Festa ou do Próprio do Tempo.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|gospelprayer|title', 'text' : 'Durante o canto 'Aleluia,' o sacerdote, diante do altar, em voz baixa, reza:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|gospelambon', 'text' : 'O sacerdote, fazendo uma reverência diante do evangeliário, ergue-o e sai com ele pelas portas santas, dirigindo-se ao ambão.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|readgospel', 'text' : '(Lê o Evangelho.)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|prayercherubic', 'text' : 'Durante o canto deste hino, o sacerdote faz silenciosamente oração seguinte:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|prayercherubicsecret', 'text' : 'O sacerdote faz três reverências profundas e recita em seguida, de braços erguidos e em voz baixa, o 'Hino dos Querubins.''}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censeatcherubikon', 'text' : 'Em seguida vai incensar o altar pelos quatro lados, os santos ícones, o coro e o povo, recitando o Salmo 50 e hinos penitenciais à sua escolha. Dirige-se, depois, ao altar da prótese e, incensando três vezes, diz a cada vez:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|wearaer', 'text' : 'Retira o grande véu e coloca-o sobre os seus ombros.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|allsaints|kontakion', 'text' : 'Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!'}

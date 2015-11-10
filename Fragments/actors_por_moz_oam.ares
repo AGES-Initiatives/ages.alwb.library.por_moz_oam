@@ -3,4 +3,5 @@ A_Resource_Whose_Name = actors_por_moz_oam
 Priest = "Sacerdote"
 Deacon = "Diácono"
 People = "Coro"
+Choir = "Coro"
 Reader = "Leitor"

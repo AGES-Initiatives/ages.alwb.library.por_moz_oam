@@ -18,6 +18,7 @@
 {'id_' : 'prayers_por_moz_oam|pet04', 'text' : 'Por este Santo Templo e por aqueles que nele entram com fé, veneração e temor a Deus, oremos ao Senhor.'}
 {'id_' : 'prayers_por_moz_oam|pet06', 'text' : 'Pelo nosso santo Papa o Patriarco (nome), pelo nosso Bispo (nome), pelo venerável presbitério, diaconato em Cristo, e por todo o Clero e povo, oremos ao Senhor.'}
 {'id_' : 'prayers_por_moz_oam|pet07S', 'text' : 'Por este país, pelo presidente, e por todos em serviço publico, oremos ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet07Sa', 'text' : 'Novamente oremos pelo Presidente, por todas autoridades civis, e pelas forças armadas.'}
 {'id_' : 'prayers_por_moz_oam|pet08', 'text' : 'Por esta cidade, por todas as cidades e países e pelos fiéis que nelas habitam, oremos ao Senhor.'}
 {'id_' : 'prayers_por_moz_oam|pet09', 'text' : 'Pela salubridade do ar, pela abundância dos frutos da terra e por tempos pacíficos, oremos ao Senhor.'}
 {'id_' : 'prayers_por_moz_oam|pet10', 'text' : 'Pelos navegantes, viajantes, enfermos, sofredores, prisioneiros e pela sua salvação, oremos ao Senhor.'}
@@ -25,6 +26,11 @@
 {'id_' : 'prayers_por_moz_oam|pet12', 'text' : 'Protege-nos, salva-nos, tem piedade de nós e guarda-nos, ó Deus, pela Tua Graça.'}
 {'id_' : 'prayers_por_moz_oam|pet13', 'text' : 'Comemorando nossa Santíssima, Puríssima Bem Aventurada e Gloriosa Senhora, a Mãe de Deus e sempre Virgem Maria, com todos os Santos, encomendemo-nos mutuamente uns aos outros e toda a nossa vida a Cristo Deus.'}
 {'id_' : 'prayers_por_moz_oam|pet14', 'text' : 'Novamente, em paz, oremos ainda ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet15', 'text' : 'Digamos todos, com toda a nossa alma, e com todo o nosso espírito, digamos:'}
+{'id_' : 'prayers_por_moz_oam|pet16', 'text' : 'Senhor Onipotente, Deus de nossos pais, nós Te suplicamos: ouve-nos e tem piedade de nós.'}
+{'id_' : 'prayers_por_moz_oam|pet17', 'text' : 'Tem piedade de nós, ó Deus, segundo a Tua grande misericórdia, nós Te suplicamos ouve-nos e tem piedade de nós.'}
+{'id_' : 'prayers_por_moz_oam|pet20', 'text' : 'Novamente oremos pelos nossos irmãos, sacerdotes, monges e por toda nossa irmandade em Cristo.'}
+{'id_' : 'prayers_por_moz_oam|pet23', 'text' : 'Novamente oremos pelos benfeitores e os que trazem suas oferendas a este Santo Templo, pelos que nele trabalham, cantam e pelo povo aqui presente, que esperam de Ti grande e abundante misericórdia.'}
 {'id_' : 'prayers_por_moz_oam|pet31', 'text' : 'Paz a todos.'}
 {'id_' : 'prayers_por_moz_oam|epi02', 'text' : 'Paz a ti, leitor.'}
 {'id_' : 'prayers_por_moz_oam|gos02', 'text' : 'Ouçamos o Santo Evangelho.'}
@@ -38,6 +44,7 @@
 {'id_' : 'prayers_por_moz_oam|exc03', 'text' : 'Pois Tu és um Deus bom e benevolente e a Ti rendemos glória, Pai, Filho, e Espírito Santo, agora e sempre e pelos séculos dos séculos.'}
 {'id_' : 'prayers_por_moz_oam|exc05a', 'text' : 'Pois Tu és Santo, ó Deus nosso, e a Ti rendemos glória, Pai, Filho, e Espirito Santo, agora e sempre...'}
 {'id_' : 'prayers_por_moz_oam|exc05b', 'text' : '... e pelos séculos dos séculos.'}
+{'id_' : 'prayers_por_moz_oam|exc11', 'text' : 'Pois Tu és um Deus misericordioso e benevolente, e a Ti rendemos glória, Pai, Filho e Espírito Santo, agora e sempre e pelos séculos dos séculos.'}
 {'id_' : 'prayers_por_moz_oam|exc17', 'text' : 'A Sabedoria!'}
 {'id_' : 'prayers_por_moz_oam|exc18', 'text' : 'Estejam atentos!'}
 {'id_' : 'prayers_por_moz_oam|exc19', 'text' : 'Estejamos atentos.'}
