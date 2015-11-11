@@ -2,6 +2,8 @@ A_Resource_Whose_Name = ps_por_moz_oam
 
 psa5.v8.text = "Entrarei na tua casa, e com teu temor me prostrarei diante de teu templo."
 
+psa17.v2.text = "Amar-te-ei, Senhor, Tu que és a minha força."
+psa17.v3a.text = "O Senhor é o meu apoio, meu refúgio e meu libertador."
 psa17.v33.text = "que me cinge de força e torna irrepreensível o meu caminho."
 
 psa25.v6.text = "Na inocência lavo as minhas mãos e me acerco do teu altar, Senhor,"
@@ -26,6 +28,9 @@ psa44.v10b.text = "À tua direita está a Rainha, envolta num manto e ornada de 
 psa50.title = "Salmo 50 (51)"
 psa50.text = "Tem piedade de mim, ó Deus, segundo a tua grande misericórdia; segundo a tua grande clemência, apaga minhas transgressões! Lava-me todo inteiro da minha iniqüidade e purifica-me do meu pecado! Pois reconheço minhas transgressões, e tenho sempre presente o meu pecado. Pequei contra Ti, contra Ti somente, e pratiquei o mal diante de teus olhos. Assim serás considerado justo em tua sentença, incontestável em teu julgamento. Eis que nasci culpado: como pecador, minha mãe me concebeu. Tu queres sinceridade interior, e no íntimo me ensinas sabedoria. Purifica-me com o hissope! e ficarei limpo. Lava-me! e ficarei mais alvo que a neve. Faze-me ouvir júbilo e alegria para que exulte os ossos que trituraste! Esconde de meus pecados o teu rosto e apaga todas as minhas iniqüidades! Ó Deus, cria para mim um coração puro e renova-me por dentro com um espírito decidido! Não me afastes de tua presença, nem retires de mim teu Santo Espírito! Restitui-me a alegria da tua salvação, e sustenta-me com um espírito generoso! Então, ensinarei aos transgressores teus caminhos, e os pecadores a Ti se converterão. Livra-me do crime de sangue, ó Deus, Deus da minha salvação! e minha língua aclamará tua justiça. Abre, Senhor, meus lábios! e minha boca proclamará o teu louvor. Pois não te agradas de um sacrifício, e se te oferecesse um holocausto, não o aceitarias. O sacrifício agradável a Deus é um espírito contrito; um coração contrito e humilhado não desprezarás, ó Deus. Faze o bem a Sião, segundo a tua benevolência; reconstrói os muros de Jerusalém! Então de agradarás dos sacrifícios devidos, dos holocaustos e das oferendas completas: dos novilhos que então serão oferecidos no teu altar."
 psa50.v17.text = "Abre, Senhor, meus lábios! e minha boca proclamará o teu louvor."
+psa50.v20.text = "Na tua benevolência abençoa Sião; Tu reconstruirás as muralhas de Jerusalém."
+psa50.v21a.text = "Então aceitarás os sacrifícios legítimos, as oferendas e holocaustos;"
+psa50.v21b.text = "e sobre o teu altar serão oferecidos novilhos."
 
 psa89.v1.text = "Senhor, tu tens sido o nosso refúgio de geração em geração."
 

@@ -8,6 +8,7 @@
 {'id_' : 'prayers_por_moz_oam|EvlogisonThymiama|text', 'text' : 'Mestre, abençoa o incenso.'}
 {'id_' : 'prayers_por_moz_oam|PanagiaTrias|text', 'text' : 'Santíssima Trindade, tem piedade de nós; Senhor, concede-nos a remissão de nossos pecados; Mestre Soberano, perdoa as nossas ofensas; ó Santo, volta teu olhar para nós e cura nossas doenças, pelo teu santo nome.'}
 {'id_' : 'prayers_por_moz_oam|PaterImon|text', 'text' : 'Pai nosso que estás nos céus, santificado seja o teu nome; venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia dá-nos hoje; perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores e, não nos deixes cair em tentação, mas livra-nos do mal.'}
+{'id_' : 'prayers_por_moz_oam|Pistevo|text', 'text' : 'CREIO em um só Deus, Pai onipotente, criador do céu e da terra e de todas as coisas visíveis e invisíveis. E em um só senhor, Jesus Cristo, Filho Unigênito de Deus, nascido do Pai antes de todos os séculos. Luz de Luz, Deus verdadeiro de Deus verdadeiro, gerado e não feito, consubstancial ao Pai, por quem foram feitas todas as coisas. O Qual por causa de nós homens e por causa de nossa salvação desceu dos céus e se encarnou pelo Espírito Santo e da Virgem Maria e se fez homem. E foi crucificado por nossa causa, sob o poder de Pôncio Pilatos; padeceu e foi sepultado e ressuscitou ao terceiro dia, segundo as Escrituras. E subiu aos céus e está sentado à direita do Pai e novamente virá com glória para julgar os vivos e os mortos, e cujo reino não terá fim. E no Espírito Santo, Senhor Vivificante que do Pai procede e que é juntamente com o Pai e o Filho adorado e glorificado, e que falou pelos profetas. E na Igreja Una, Santa, Universal e Apostólica. Confesso um só batismo para a remissão dos pecados. Espero a ressurreição dos mortos e a vida do século futuro. Amém.'}
 {'id_' : 'prayers_por_moz_oam|Thymiama|text', 'text' : 'Nós te oferecemos este incenso, ó Cristo nosso Deus, como um perfume de suavidade espiritual; digna-te recebê-lo no teu altar celeste e derrama sobre nós a graça do teu Santíssimo Espírito.'}
 {'id_' : 'prayers_por_moz_oam|VasilefOuranie|text', 'text' : 'Rei celestial, Consolador, Espírito da verdade, presente em toda parte e ocupando todo lugar, tesouro dos bens e dispensador da vida, vem e habita em nós, purifica-nos de toda a iniqüidade e salva, ó Filantropo, as nossas almas!'}
 {'id_' : 'prayers_por_moz_oam|enarxis01', 'text' : 'Bendito seja o nosso Deus, a todo o momento, agora e sempre e pelos séculos dos séculos.'}
@@ -31,10 +32,18 @@
 {'id_' : 'prayers_por_moz_oam|pet17', 'text' : 'Tem piedade de nós, ó Deus, segundo a Tua grande misericórdia, nós Te suplicamos ouve-nos e tem piedade de nós.'}
 {'id_' : 'prayers_por_moz_oam|pet20', 'text' : 'Novamente oremos pelos nossos irmãos, sacerdotes, monges e por toda nossa irmandade em Cristo.'}
 {'id_' : 'prayers_por_moz_oam|pet23', 'text' : 'Novamente oremos pelos benfeitores e os que trazem suas oferendas a este Santo Templo, pelos que nele trabalham, cantam e pelo povo aqui presente, que esperam de Ti grande e abundante misericórdia.'}
+{'id_' : 'prayers_por_moz_oam|pet24', 'text' : 'Completemos nossa oração ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet25m', 'text' : 'Que todo este dia seja perfeito, santo, pacífico e sem pecado, peçamos ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet26', 'text' : 'Um anjo de paz, guia fiel e guardião de nossas almas e corpos, peçamos ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet27', 'text' : 'O perdão e remissão de nossos pecados e transgressões, peçamos ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet28', 'text' : 'Todas as coisas boas e proveitosas para nossas almas e pela paz do mundo, peçamos ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet29', 'text' : 'Que nos conceda passar o resto de nossa vida na paz e no arrependimento, peçamos ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet30', 'text' : 'Que nossa vida tenha um fim cristão, irrepreensível, pacífico e sem sofrimento, por uma sentença favorável perante o temível tribunal de Cristo, peçamos ao Senhor.'}
 {'id_' : 'prayers_por_moz_oam|pet31', 'text' : 'Paz a todos.'}
 {'id_' : 'prayers_por_moz_oam|epi02', 'text' : 'Paz a ti, leitor.'}
 {'id_' : 'prayers_por_moz_oam|gos02', 'text' : 'Ouçamos o Santo Evangelho.'}
 {'id_' : 'prayers_por_moz_oam|res01', 'text' : 'Senhor, tem piedade.'}
+{'id_' : 'prayers_por_moz_oam|res02', 'text' : 'Concede-nos Senhor.'}
 {'id_' : 'prayers_por_moz_oam|res03', 'text' : 'A ti, ó Senhor.'}
 {'id_' : 'prayers_por_moz_oam|res04', 'text' : 'Amém.'}
 {'id_' : 'prayers_por_moz_oam|res05', 'text' : 'E ao teu espirito.'}

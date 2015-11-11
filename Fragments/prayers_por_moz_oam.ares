@@ -19,6 +19,8 @@ PanagiaTrias.text = "Santíssima Trindade, tem piedade de nós; Senhor, concede-
 
 PaterImon.text = "Pai nosso que estás nos céus, santificado seja o teu nome; venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia dá-nos hoje; perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores e, não nos deixes cair em tentação, mas livra-nos do mal."
 
+Pistevo.text = "CREIO em um só Deus, Pai onipotente, criador do céu e da terra e de todas as coisas visíveis e invisíveis. E em um só senhor, Jesus Cristo, Filho Unigênito de Deus, nascido do Pai antes de todos os séculos. Luz de Luz, Deus verdadeiro de Deus verdadeiro, gerado e não feito, consubstancial ao Pai, por quem foram feitas todas as coisas. O Qual por causa de nós homens e por causa de nossa salvação desceu dos céus e se encarnou pelo Espírito Santo e da Virgem Maria e se fez homem. E foi crucificado por nossa causa, sob o poder de Pôncio Pilatos; padeceu e foi sepultado e ressuscitou ao terceiro dia, segundo as Escrituras. E subiu aos céus e está sentado à direita do Pai e novamente virá com glória para julgar os vivos e os mortos, e cujo reino não terá fim. E no Espírito Santo, Senhor Vivificante que do Pai procede e que é juntamente com o Pai e o Filho adorado e glorificado, e que falou pelos profetas. E na Igreja Una, Santa, Universal e Apostólica. Confesso um só batismo para a remissão dos pecados. Espero a ressurreição dos mortos e a vida do século futuro. Amém."
+
 Thymiama.text = "Nós te oferecemos este incenso, ó Cristo nosso Deus, como um perfume de suavidade espiritual; digna-te recebê-lo no teu altar celeste e derrama sobre nós a graça do teu Santíssimo Espírito."
 
 VasilefOuranie.text = "Rei celestial, Consolador, Espírito da verdade, presente em toda parte e ocupando todo lugar, tesouro dos bens e dispensador da vida, vem e habita em nós, purifica-nos de toda a iniqüidade e salva, ó Filantropo, as nossas almas!"
@@ -65,6 +67,20 @@ pet20 = "Novamente oremos pelos nossos irmãos, sacerdotes, monges e por toda no
 
 pet23 = "Novamente oremos pelos benfeitores e os que trazem suas oferendas a este Santo Templo, pelos que nele trabalham, cantam e pelo povo aqui presente, que esperam de Ti grande e abundante misericórdia."
 
+pet24 = "Completemos nossa oração ao Senhor."
+
+pet25m = "Que todo este dia seja perfeito, santo, pacífico e sem pecado, peçamos ao Senhor."
+
+pet26 = "Um anjo de paz, guia fiel e guardião de nossas almas e corpos, peçamos ao Senhor."
+
+pet27 = "O perdão e remissão de nossos pecados e transgressões, peçamos ao Senhor."
+
+pet28 = "Todas as coisas boas e proveitosas para nossas almas e pela paz do mundo, peçamos ao Senhor."
+
+pet29 = "Que nos conceda passar o resto de nossa vida na paz e no arrependimento, peçamos ao Senhor."
+
+pet30 = "Que nossa vida tenha um fim cristão, irrepreensível, pacífico e sem sofrimento, por uma sentença favorável perante o temível tribunal de Cristo, peçamos ao Senhor."
+
 pet31 = "Paz a todos."
 
 epi02 = "Paz a ti, leitor."
@@ -72,6 +88,8 @@ epi02 = "Paz a ti, leitor."
 gos02 = "Ouçamos o Santo Evangelho."
 
 res01 = "Senhor, tem piedade."
+
+res02 = "Concede-nos Senhor."
 
 res03 = "A ti, ó Senhor."
 
