@@ -119,6 +119,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|litanygifts|title', 'text' : 'A ladainha suplicante'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|creed|title', 'text' : 'Símbolo de Fé'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|axion|title', 'text' : 'É digno e justo'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|litanylordsprayer|title', 'text' : 'A ladainha suplicante'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|prokimenonmode', 'text' : 'Prokimenon …'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|exclight', 'text' : 'Pois Tu és a luz de nossas almas e de nossos corpos, ó Cristo nosso Deus, e nós te glorificamos, assim como ao teu eterno Pai e ao teu santíssimo, bom e vivificante Espírito, agora e sempre, pelos séculos dos séculos.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessreader', 'text' : 'Abençoa, Senhor, o anunciante do Evangelho do Apóstolo e Evangelista (...nome do santo).'}
@@ -136,6 +137,9 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|christmidst2', 'text' : 'Resposta: Está e permanecerá!'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|tasa', 'text' : 'O que é Teu, do que é Teu, a Ti oferecemos por tudo e por todos.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|seimnumen', 'text' : 'Nós Te louvamos, bendizemos, agradecemos a Ti, ó Senhor e Te suplicamos, ó Deus nosso.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|changebread', 'text' : 'Mestre, abençoa o pão sagrado.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|changewine', 'text' : 'Mestre, abençoa o copo sagrado.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessboth', 'text' : 'Mestre, abençoa os dois.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense', 'text' : 'O sacerdote incensa o altar nos quatro lados, rezando silenciosamente:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense2', 'text' : 'Prossegue incensando os ícones, a igreja, os fiéis e novamente o altar. Durante a incensarão recita as orações penitenciais e o salmo 50 (51).'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|heavenlyking', 'text' : 'Depois, de braços abertos diante do altar pede a assistência do Espírito Santo, dizendo em voz baixa:'}
@@ -180,4 +184,11 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|allbow2', 'text' : 'Todos, com o sacerdote, fazem novamente uma profunda inclinação e, em voz baixa o sacerdote prossegue:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|exaltgifts', 'text' : 'Tomando o disco na mão direita e o cálice na mão esquerda, posiciona as mãos em forma de cruz, pondo a direita sobre a esquerda, faz o sinal da cruz sobre o antimension, dizendo em voz alta:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|thirdhour', 'text' : 'Faz três inclinações profundas, segundo o antigo costume e, de braços erguidos, reza o 'Tropário da hora de terça.''}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|changebread', 'text' : 'Abençoando o pão sobre o disco, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|blesschalice', 'text' : 'E abençoando o cálice:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|epiclesis', 'text' : 'Abençoando o cálice e a patena:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|allbow3', 'text' : 'E todos fazem uma profunda reverência em adoração. Em seguida, o sacerdote continua em voz baixa:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censemegalynarion', 'text' : 'Tomando o turíbulo, o sacerdote incensa os santos dons, e diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censecommemmorate', 'text' : 'O diácono toma o turíbulo e vai incensar os quatro lados do altar enquanto o coro responde cantando:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|blessmercy', 'text' : 'Ao concluir a Anáfora o sacerdote volta-se para o povo e o abençoa cantando:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|allsaints|kontakion', 'text' : 'Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!'}

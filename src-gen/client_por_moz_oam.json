@@ -1,3 +1,7 @@
 {'id_' : 'client_por_moz_oam|cl|eu|lichrysbasil|R009', 'text' : 'Leitura da Epístola do Apóstolo São Paulo aos…'}
 {'id_' : 'client_por_moz_oam|cl|eu|lichrysbasil|R010', 'text' : '(Lê a Epístola.)'}
 {'id_' : 'client_por_moz_oam|cl|eu|lichrysbasil|R011', 'text' : 'Leitura do Santo Evangelho de Nosso Senhor Jesus Cristo, segundo o evangelista São…'}
+{'id_' : 'client_por_moz_oam|cl|bishop1|rank', 'text' : 'do nosso santo Papa e Patriarca'}
+{'id_' : 'client_por_moz_oam|cl|bishop1|name_p', 'text' : '(nome),'}
+{'id_' : 'client_por_moz_oam|cl|bishop2|rank', 'text' : 'e de nosso Bispo'}
+{'id_' : 'client_por_moz_oam|cl|bishop2|name_c', 'text' : '(nome),'}

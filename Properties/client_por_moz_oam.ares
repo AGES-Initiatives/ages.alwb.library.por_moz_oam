@@ -4,3 +4,8 @@ cl.eu.lichrysbasil.R009 = "Leitura da Epístola do Apóstolo São Paulo aos…"
 cl.eu.lichrysbasil.R010 = "(Lê a Epístola.)"
 
 cl.eu.lichrysbasil.R011 = "Leitura do Santo Evangelho de Nosso Senhor Jesus Cristo, segundo o evangelista São…"
+
+cl.bishop1.rank = "do nosso santo Papa e Patriarca"
+cl.bishop1.name_p = "(nome),"
+cl.bishop2.rank = "e de nosso Bispo"
+cl.bishop2.name_c = "(nome),"
