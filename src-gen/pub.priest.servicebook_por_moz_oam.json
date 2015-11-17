@@ -56,6 +56,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|wellpleased', 'text' : 'Bendito seja o nosso Deus, pois assim se cumpriu a sua vontade.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|protheseosprayer', 'text' : 'Ó Deus, nosso Deus, que enviaste o Pão Celeste, alimento para todos, o Senhor e Deus nosso Jesus Cristo, Salvador, Redentor e Benfeitor que nos abençoa e nos santifica; digna-te abençoar esta oblação e aceitá-la no teu altar celeste. Lembra-te, ó Filantropo, de todos aqueles por quem é oferecida e preserva-nos de incorrermos em condenação ao celebrarmos os teus divinos mistérios. Pois, o teu nome é santificado e glorificado, Pai, Filho e Espírito Santo, a todo o momento, agora e sempre, pelos séculos dos séculos. Amém.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|commemmorationchrysostom', 'text' : 'do nosso santo padre João Crisóstomo, arcebispo de Constantinopla, (e se a Liturgia for de São Basílio: do nosso santo padre Basílio o Grande, arcebispo de Cesaréia da Capadócia),'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|preparation|mercy', 'text' : 'Perdoa-me, ó Deus, e tem piedade de mim, pecador.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|part1', 'text' : 'Esta primeira parte da Liturgia é feita sem a participação do povo.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|enteringbows', 'text' : 'Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|open', 'text' : 'O diácono ou sacerdote abre a porta santa no momento que se diz essa oração.'}
@@ -120,6 +121,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|creed|title', 'text' : 'Símbolo de Fé'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|axion|title', 'text' : 'É digno e justo'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|litanylordsprayer|title', 'text' : 'A ladainha suplicante'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|holycommunion|title', 'text' : 'Comunhão'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|prokimenonmode', 'text' : 'Prokimenon …'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|exclight', 'text' : 'Pois Tu és a luz de nossas almas e de nossos corpos, ó Cristo nosso Deus, e nós te glorificamos, assim como ao teu eterno Pai e ao teu santíssimo, bom e vivificante Espírito, agora e sempre, pelos séculos dos séculos.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessreader', 'text' : 'Abençoa, Senhor, o anunciante do Evangelho do Apóstolo e Evangelista (...nome do santo).'}
@@ -140,6 +142,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|changebread', 'text' : 'Mestre, abençoa o pão sagrado.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|changewine', 'text' : 'Mestre, abençoa o copo sagrado.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessboth', 'text' : 'Mestre, abençoa os dois.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|pliroma', 'text' : 'A plenitude da fé do Espírito Santo. Amém.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense', 'text' : 'O sacerdote incensa o altar nos quatro lados, rezando silenciosamente:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense2', 'text' : 'Prossegue incensando os ícones, a igreja, os fiéis e novamente o altar. Durante a incensarão recita as orações penitenciais e o salmo 50 (51).'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|heavenlyking', 'text' : 'Depois, de braços abertos diante do altar pede a assistência do Espírito Santo, dizendo em voz baixa:'}
@@ -191,4 +194,10 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censemegalynarion', 'text' : 'Tomando o turíbulo, o sacerdote incensa os santos dons, e diz:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censecommemmorate', 'text' : 'O diácono toma o turíbulo e vai incensar os quatro lados do altar enquanto o coro responde cantando:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|blessmercy', 'text' : 'Ao concluir a Anáfora o sacerdote volta-se para o povo e o abençoa cantando:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|lordsprayer', 'text' : 'De braços erguidos, introduz a oração do Pai Nosso, cantando:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|bowhead', 'text' : 'Todos, coro, povo e sacerdote inclinam a cabeça em sinal de reverência e adoração, enquanto o sacerdote reza em voz baixa:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|bowcommunion', 'text' : 'Inclinando-se, cada vez que diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|holyforholy', 'text' : 'Inclinando-se sobre o altar, levanta os santos dons dizendo em voz alta:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|breakbread', 'text' : 'Reverentemente, o sacerdote parte o Cordeiro em quatro partes, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|ic', 'text' : 'Toma a partícula “IC” e, traçando com ela uma cruz sobre a borda do cálice, deixa-a cair dizendo:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|allsaints|kontakion', 'text' : 'Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!'}

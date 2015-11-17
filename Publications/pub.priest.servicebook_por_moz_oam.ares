@@ -61,6 +61,7 @@ li.preparation.coverboth = "Acolhe-nos, Senhor, ao abrigo das tuas asas. Afasta 
 li.preparation.wellpleased = "Bendito seja o nosso Deus, pois assim se cumpriu a sua vontade."
 li.preparation.protheseosprayer = "Ó Deus, nosso Deus, que enviaste o Pão Celeste, alimento para todos, o Senhor e Deus nosso Jesus Cristo, Salvador, Redentor e Benfeitor que nos abençoa e nos santifica; digna-te abençoar esta oblação e aceitá-la no teu altar celeste. Lembra-te, ó Filantropo, de todos aqueles por quem é oferecida e preserva-nos de incorrermos em condenação ao celebrarmos os teus divinos mistérios. Pois, o teu nome é santificado e glorificado, Pai, Filho e Espírito Santo, a todo o momento, agora e sempre, pelos séculos dos séculos. Amém."
 li.preparation.commemmorationchrysostom = "do nosso santo padre João Crisóstomo, arcebispo de Constantinopla, (e se a Liturgia for de São Basílio: do nosso santo padre Basílio o Grande, arcebispo de Cesaréia da Capadócia),"
+li.preparation.mercy = "Perdoa-me, ó Deus, e tem piedade de mim, pecador."
 
 li.rubric.part1 = "Esta primeira parte da Liturgia é feita sem a participação do povo."
 li.rubric.enteringbows = "Diante das portas santas o sacerdote faz três reverências, dizendo a cada vez:"
@@ -127,6 +128,7 @@ li.litanygifts.title = "A ladainha suplicante"
 li.creed.title = "Símbolo de Fé"
 li.axion.title = "É digno e justo"
 li.litanylordsprayer.title = "A ladainha suplicante"
+li.holycommunion.title = "Comunhão"
 
 li.prokimenonmode = "Prokimenon …"
 li.exclight = "Pois Tu és a luz de nossas almas e de nossos corpos, ó Cristo nosso Deus, e nós te glorificamos, assim como ao teu eterno Pai e ao teu santíssimo, bom e vivificante Espírito, agora e sempre, pelos séculos dos séculos."
@@ -148,6 +150,7 @@ li.seimnumen = "Nós Te louvamos, bendizemos, agradecemos a Ti, ó Senhor e Te s
 li.changebread = "Mestre, abençoa o pão sagrado."
 li.changewine = "Mestre, abençoa o copo sagrado."
 li.blessboth = "Mestre, abençoa os dois."
+li.pliroma = "A plenitude da fé do Espírito Santo. Amém."
 
 li.rubric.cense = "O sacerdote incensa o altar nos quatro lados, rezando silenciosamente:"
 li.rubric.cense2 = "Prossegue incensando os ícones, a igreja, os fiéis e novamente o altar. Durante a incensarão recita as orações penitenciais e o salmo 50 (51)."
@@ -200,5 +203,11 @@ li.rubric.allbow3 = "E todos fazem uma profunda reverência em adoração. Em se
 li.rubric.censemegalynarion = "Tomando o turíbulo, o sacerdote incensa os santos dons, e diz:"
 li.rubric.censecommemmorate = "O diácono toma o turíbulo e vai incensar os quatro lados do altar enquanto o coro responde cantando:"
 li.rubric.blessmercy = "Ao concluir a Anáfora o sacerdote volta-se para o povo e o abençoa cantando:"
+li.rubric.lordsprayer = "De braços erguidos, introduz a oração do Pai Nosso, cantando:"
+li.rubric.bowhead = "Todos, coro, povo e sacerdote inclinam a cabeça em sinal de reverência e adoração, enquanto o sacerdote reza em voz baixa:" 
+li.rubric.bowcommunion = "Inclinando-se, cada vez que diz:"
+li.rubric.holyforholy = "Inclinando-se sobre o altar, levanta os santos dons dizendo em voz alta:"
+li.rubric.breakbread = "Reverentemente, o sacerdote parte o Cordeiro em quatro partes, dizendo:"
+li.rubric.ic = "Toma a partícula “IC” e, traçando com ela uma cruz sobre a borda do cálice, deixa-a cair dizendo:"
 
 li.allsaints.kontakion = "Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!"
