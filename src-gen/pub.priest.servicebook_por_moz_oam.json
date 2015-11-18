@@ -143,6 +143,10 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|changewine', 'text' : 'Mestre, abençoa o copo sagrado.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessboth', 'text' : 'Mestre, abençoa os dois.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|pliroma', 'text' : 'A plenitude da fé do Espírito Santo. Amém.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|zesis', 'text' : 'O fervor da fé, cheio do Espírito Santo. Amém.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|reception', 'text' : 'Que a recepção dos teus santos mistérios, Senhor, não seja para mim causa de juízo e condenação, mas, por tua misericórdia sirva de defesa e proteção à minha alma e ao meu corpo e de remédio aos meus males.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|godisthelord', 'text' : 'Bendito seja o que vem em nome do Senhor. O Senhor é Deus e se manifestou a nós.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|distributionprayershort', 'text' : 'O (a) servo/a de Deus N. ... , comunga o precioso e santíssimo Corpo e Sangue de nosso Senhor Deus e Salvador Jesus Cristo, para a remissão de seus pecados e para a vida eterna.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense', 'text' : 'O sacerdote incensa o altar nos quatro lados, rezando silenciosamente:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense2', 'text' : 'Prossegue incensando os ícones, a igreja, os fiéis e novamente o altar. Durante a incensarão recita as orações penitenciais e o salmo 50 (51).'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|heavenlyking', 'text' : 'Depois, de braços abertos diante do altar pede a assistência do Espírito Santo, dizendo em voz baixa:'}
@@ -200,4 +204,17 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|holyforholy', 'text' : 'Inclinando-se sobre o altar, levanta os santos dons dizendo em voz alta:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|breakbread', 'text' : 'Reverentemente, o sacerdote parte o Cordeiro em quatro partes, dizendo:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|ic', 'text' : 'Toma a partícula “IC” e, traçando com ela uma cruz sobre a borda do cálice, deixa-a cair dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|pourzeon', 'text' : 'Derrama no cálice um pouco da água quente em forma de cruz, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|communionhymn', 'text' : 'O coro canta o Hino de Comunhão que é próprio do dia ou da festa que se celebra. Aos domingos, o canto é o que segue. Nos demais dias da semana ou festas especiais, ver “Cantos de Comunhão” ou “Próprio das Principais Festas.”'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|seepage', 'text' : 'O sacerdote e o povo recitam as Orações em Preparação à Comunhão.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|xc', 'text' : 'E, fazendo profunda reverência diante dos dons consagrados, o sacerdote toma uma partícula consagrada da fração “XC” na palma de sua própria mão, dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|chaliceandcloth', 'text' : 'Em seguida, inclina-se profundamente, toma o cálice com ambas as mãos, coloca por baixo o purificador e diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|drinkthrice', 'text' : 'E comunga do cálice por três vezes. Depois, limpa com o purificador os lábios e o bordo do cálice, beija-o e diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|nika', 'text' : 'Em seguida, divide as frações “NI” e “KA”, consagradas para a comunhão dos fiéis, em tantas partículas quanto o número de comungantes e as submerge no cálice, cobrindo com o purificador e com o véu. Assim mesmo, coloca o asterisco e a lança sobre a patena e os cobre com seu respectivo véu.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|approach', 'text' : 'O sacerdote exorta os fiéis:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|distributionprayer', 'text' : 'Ao dar a comunhão a cada fiel, o sacerdote diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|toudeipnou', 'text' : 'Durante a comunhão dos fiéis, o coro canta:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|blesshand', 'text' : 'Terminada a distribuição da Comunhão, o sacerdote abençoa o povo dizendo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|wipeparticles', 'text' : 'Depois da comunhão dos fiéis, o sacerdote entra no santuário, coloca o cálice sobre o altar, toma o disco, inclina-o sobre o cálice deixando cair as partículas dentro dele enquanto reza em voz baixa:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|wipeparticles2', 'text' : 'E, depois de haver submergido todas as partículas no cálice, seca com uma pequena esponja o disco para que não fique nenhum fragmento e diz:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|allsaints|kontakion', 'text' : 'Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!'}
