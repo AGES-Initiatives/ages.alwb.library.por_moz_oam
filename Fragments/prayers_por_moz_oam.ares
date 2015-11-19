@@ -15,7 +15,11 @@ DoxaSoiOTheosImon.text = "Glória a Ti, ó nosso Deus, glória a Ti!"
 
 EvlogisonThymiama.text = "Mestre, abençoa o incenso."
 
+EvlogitosOTheosImon.text = "Bendito seja o nosso Deus."
+
 PanagiaTrias.text = "Santíssima Trindade, tem piedade de nós; Senhor, concede-nos a remissão de nossos pecados; Mestre Soberano, perdoa as nossas ofensas; ó Santo, volta teu olhar para nós e cura nossas doenças, pelo teu santo nome."
+
+PantoteNyn.text = "A todo o momento, eternamente, agora e sempre e pelos séculos dos séculos."
 
 PaterImon.text = "Pai nosso que estás nos céus, santificado seja o teu nome; venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia dá-nos hoje; perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores e, não nos deixes cair em tentação, mas livra-nos do mal."
 
@@ -85,6 +89,8 @@ pet31 = "Paz a todos."
 
 pet32 = "Inclinai vossas cabeças ao Senhor."
 
+pet37 = "A benção do Senhor esteja sobre vós pela Sua graça e Seu amor pela humanidade, a todo o momento, pelos séculos dos séculos."
+
 epi02 = "Paz a ti, leitor."
 
 gos02 = "Ouçamos o Santo Evangelho."
@@ -99,9 +105,13 @@ res04 = "Amém."
 
 res05 = "E ao teu espirito."
 
+res06 = "Senhor, tem piedade. Senhor, tem piedade. Senhor, tem piedade."
+
 res08 = "Abençoa, Mestre."
 
 res10 = "Amém, amém, amém!"
+
+res13 = "Abençoa."
 
 exc01 = "Porque a Ti pertence toda glória, honra e adoração, Pai, Filho e Espirito Santo, agora e sempre e pelos séculos dos séculos."
 

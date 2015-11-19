@@ -36,6 +36,8 @@ psa50.v20.text = "Na tua benevolência abençoa Sião; Tu reconstruirás as mura
 psa50.v21a.text = "Então aceitarás os sacrifícios legítimos, as oferendas e holocaustos;"
 psa50.v21b.text = "e sobre o teu altar serão oferecidos novilhos."
 
+psa56.v6.text = "Sê exaltado, ó Deus, acima dos céus e a tua glória se estenda sobre toda a terra."
+
 psa89.v1.text = "Senhor, tu tens sido o nosso refúgio de geração em geração."
 
 psa92.v1b.text = "O Senhor é rei e se vestiu de majestade,"
@@ -43,6 +45,8 @@ psa92.v1c.text = "revestiu-se de poder e de esplendor!"
 
 psa102.title = "Salmo 102"
 psa102.text = "Bendize, ó minha alma, o Senhor; bendito és Tu, ó Senhor. Bendize, ó minha alma, ó Senhor, e todas as coisas que há dentro de mim, o Seu Santo Nome. Bendize, ó minha alma, o Senhor, e não esqueças nenhum dos Seus benefícios. É Ele quem perdoa todas as tuas culpas, e quem sara todas as tuas enfermidades. É Ele quem resgata da morte a tua vida, e quem te coroa de misericórdia e de graça. É Ele quem sacia de bens a tua vida, renova-se como a da águia a tua juventude. O Senhor é misericordioso e compassivo, lento para a ira e muito clemente. Bendize, ó minha alma, o Senhor, e todas as coisas que há dentro de mim, o Seu Santo Nome; bendito és Tu ó Senhor."
+
+psa112.v2alt1.text = "Bendito seja o nome do Senhor de agora e por toda a eternidade."
 
 psa117.v26a.text = "Bendito seja o que vem em nome do Senhor!"
 

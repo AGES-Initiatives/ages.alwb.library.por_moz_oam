@@ -122,6 +122,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|axion|title', 'text' : 'É digno e justo'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|litanylordsprayer|title', 'text' : 'A ladainha suplicante'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|holycommunion|title', 'text' : 'Comunhão'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|thanksdismissal|title', 'text' : 'Ladainha de agradecimento'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|prokimenonmode', 'text' : 'Prokimenon …'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|exclight', 'text' : 'Pois Tu és a luz de nossas almas e de nossos corpos, ó Cristo nosso Deus, e nós te glorificamos, assim como ao teu eterno Pai e ao teu santíssimo, bom e vivificante Espírito, agora e sempre, pelos séculos dos séculos.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|blessreader', 'text' : 'Abençoa, Senhor, o anunciante do Evangelho do Apóstolo e Evangelista (...nome do santo).'}
@@ -147,6 +148,8 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|reception', 'text' : 'Que a recepção dos teus santos mistérios, Senhor, não seja para mim causa de juízo e condenação, mas, por tua misericórdia sirva de defesa e proteção à minha alma e ao meu corpo e de remédio aos meus males.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|godisthelord', 'text' : 'Bendito seja o que vem em nome do Senhor. O Senhor é Deus e se manifestou a nós.'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|distributionprayershort', 'text' : 'O (a) servo/a de Deus N. ... , comunga o precioso e santíssimo Corpo e Sangue de nosso Senhor Deus e Salvador Jesus Cristo, para a remissão de seus pecados e para a vida eterna.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|lordsname', 'text' : 'Em nome do Senhor.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|finalblessing|title', 'text' : 'Bendição final'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense', 'text' : 'O sacerdote incensa o altar nos quatro lados, rezando silenciosamente:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|cense2', 'text' : 'Prossegue incensando os ícones, a igreja, os fiéis e novamente o altar. Durante a incensarão recita as orações penitenciais e o salmo 50 (51).'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|heavenlyking', 'text' : 'Depois, de braços abertos diante do altar pede a assistência do Espírito Santo, dizendo em voz baixa:'}
@@ -217,4 +220,13 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|blesshand', 'text' : 'Terminada a distribuição da Comunhão, o sacerdote abençoa o povo dizendo:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|wipeparticles', 'text' : 'Depois da comunhão dos fiéis, o sacerdote entra no santuário, coloca o cálice sobre o altar, toma o disco, inclina-o sobre o cálice deixando cair as partículas dentro dele enquanto reza em voz baixa:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|wipeparticles2', 'text' : 'E, depois de haver submergido todas as partículas no cálice, seca com uma pequena esponja o disco para que não fique nenhum fragmento e diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|censeexalt', 'text' : 'Incensa por três vezes os santos Dons colocados sobre o altar, dizendo a cada vez em voz baixa:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|showcoversstar', 'text' : 'Depois, levando-os para o pequeno altar da prótese, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|blessed', 'text' : 'O diácono e o sacerdote vão depositar os santos Dons no altar da prótese onde o diácono incensa. Enquanto isso, o coro canta:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|crossantimensiongospel', 'text' : 'Voltando para o altar, enquanto dobra o antimênsion e o iletón, o sacerdote reza silenciosamente:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|ambonprayer', 'text' : 'O sacerdote sai do santuário e reza, em voz alta, diante do ícone de Cristo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|pliromanomou', 'text' : 'Entrando no santuário, o sacerdote vai à mesa da prótese e reza em voz baixa:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|evlogiakyriou', 'text' : 'Abençoando o povo:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|dismissal', 'text' : 'O sacerdote, segurando com a mão direita a cruz, sai pelas portas santas e dirige ao povo a oração de despedida. A fórmula possui um núcleo fixo, mas a cada dia da semana e/ou a cada festa, insere-se uma invocação própria.'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|dis|oanastas', 'text' : 'ressuscitado dos mortos,'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|allsaints|kontakion', 'text' : 'Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!'}

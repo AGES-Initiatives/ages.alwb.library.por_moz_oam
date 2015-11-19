@@ -6,7 +6,9 @@
 {'id_' : 'prayers_por_moz_oam|DoxaSoiKyrie', 'text' : 'Glória a Ti, Senhor, glória a Ti.'}
 {'id_' : 'prayers_por_moz_oam|DoxaSoiOTheosImon|text', 'text' : 'Glória a Ti, ó nosso Deus, glória a Ti!'}
 {'id_' : 'prayers_por_moz_oam|EvlogisonThymiama|text', 'text' : 'Mestre, abençoa o incenso.'}
+{'id_' : 'prayers_por_moz_oam|EvlogitosOTheosImon|text', 'text' : 'Bendito seja o nosso Deus.'}
 {'id_' : 'prayers_por_moz_oam|PanagiaTrias|text', 'text' : 'Santíssima Trindade, tem piedade de nós; Senhor, concede-nos a remissão de nossos pecados; Mestre Soberano, perdoa as nossas ofensas; ó Santo, volta teu olhar para nós e cura nossas doenças, pelo teu santo nome.'}
+{'id_' : 'prayers_por_moz_oam|PantoteNyn|text', 'text' : 'A todo o momento, eternamente, agora e sempre e pelos séculos dos séculos.'}
 {'id_' : 'prayers_por_moz_oam|PaterImon|text', 'text' : 'Pai nosso que estás nos céus, santificado seja o teu nome; venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu. O pão nosso de cada dia dá-nos hoje; perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores e, não nos deixes cair em tentação, mas livra-nos do mal.'}
 {'id_' : 'prayers_por_moz_oam|Pistevo|text', 'text' : 'CREIO em um só Deus, Pai onipotente, criador do céu e da terra e de todas as coisas visíveis e invisíveis. E em um só senhor, Jesus Cristo, Filho Unigênito de Deus, nascido do Pai antes de todos os séculos. Luz de Luz, Deus verdadeiro de Deus verdadeiro, gerado e não feito, consubstancial ao Pai, por quem foram feitas todas as coisas. O Qual por causa de nós homens e por causa de nossa salvação desceu dos céus e se encarnou pelo Espírito Santo e da Virgem Maria e se fez homem. E foi crucificado por nossa causa, sob o poder de Pôncio Pilatos; padeceu e foi sepultado e ressuscitou ao terceiro dia, segundo as Escrituras. E subiu aos céus e está sentado à direita do Pai e novamente virá com glória para julgar os vivos e os mortos, e cujo reino não terá fim. E no Espírito Santo, Senhor Vivificante que do Pai procede e que é juntamente com o Pai e o Filho adorado e glorificado, e que falou pelos profetas. E na Igreja Una, Santa, Universal e Apostólica. Confesso um só batismo para a remissão dos pecados. Espero a ressurreição dos mortos e a vida do século futuro. Amém.'}
 {'id_' : 'prayers_por_moz_oam|Thymiama|text', 'text' : 'Nós te oferecemos este incenso, ó Cristo nosso Deus, como um perfume de suavidade espiritual; digna-te recebê-lo no teu altar celeste e derrama sobre nós a graça do teu Santíssimo Espírito.'}
@@ -41,6 +43,7 @@
 {'id_' : 'prayers_por_moz_oam|pet30', 'text' : 'Que nossa vida tenha um fim cristão, irrepreensível, pacífico e sem sofrimento, por uma sentença favorável perante o temível tribunal de Cristo, peçamos ao Senhor.'}
 {'id_' : 'prayers_por_moz_oam|pet31', 'text' : 'Paz a todos.'}
 {'id_' : 'prayers_por_moz_oam|pet32', 'text' : 'Inclinai vossas cabeças ao Senhor.'}
+{'id_' : 'prayers_por_moz_oam|pet37', 'text' : 'A benção do Senhor esteja sobre vós pela Sua graça e Seu amor pela humanidade, a todo o momento, pelos séculos dos séculos.'}
 {'id_' : 'prayers_por_moz_oam|epi02', 'text' : 'Paz a ti, leitor.'}
 {'id_' : 'prayers_por_moz_oam|gos02', 'text' : 'Ouçamos o Santo Evangelho.'}
 {'id_' : 'prayers_por_moz_oam|res01', 'text' : 'Senhor, tem piedade.'}
@@ -48,8 +51,10 @@
 {'id_' : 'prayers_por_moz_oam|res03', 'text' : 'A ti, ó Senhor.'}
 {'id_' : 'prayers_por_moz_oam|res04', 'text' : 'Amém.'}
 {'id_' : 'prayers_por_moz_oam|res05', 'text' : 'E ao teu espirito.'}
+{'id_' : 'prayers_por_moz_oam|res06', 'text' : 'Senhor, tem piedade. Senhor, tem piedade. Senhor, tem piedade.'}
 {'id_' : 'prayers_por_moz_oam|res08', 'text' : 'Abençoa, Mestre.'}
 {'id_' : 'prayers_por_moz_oam|res10', 'text' : 'Amém, amém, amém!'}
+{'id_' : 'prayers_por_moz_oam|res13', 'text' : 'Abençoa.'}
 {'id_' : 'prayers_por_moz_oam|exc01', 'text' : 'Porque a Ti pertence toda glória, honra e adoração, Pai, Filho e Espirito Santo, agora e sempre e pelos séculos dos séculos.'}
 {'id_' : 'prayers_por_moz_oam|exc02', 'text' : 'Porque a Ti pertence o domínio, e Teu é o reino, o poder e a glória, Pai, Filho, e Espírito Santo, agora e sempre e pelos séculos dos séculos.'}
 {'id_' : 'prayers_por_moz_oam|exc03', 'text' : 'Pois Tu és um Deus bom e benevolente e a Ti rendemos glória, Pai, Filho, e Espírito Santo, agora e sempre e pelos séculos dos séculos.'}
