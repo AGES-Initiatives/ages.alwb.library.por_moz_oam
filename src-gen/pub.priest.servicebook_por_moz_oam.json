@@ -228,5 +228,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|pliromanomou', 'text' : 'Entrando no santuário, o sacerdote vai à mesa da prótese e reza em voz baixa:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|evlogiakyriou', 'text' : 'Abençoando o povo:'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|dismissal', 'text' : 'O sacerdote, segurando com a mão direita a cruz, sai pelas portas santas e dirige ao povo a oração de despedida. A fórmula possui um núcleo fixo, mas a cada dia da semana e/ou a cada festa, insere-se uma invocação própria.'}
-{'id_' : 'pub|priest|servicebook_por_moz_oam|li|dis|oanastas', 'text' : 'ressuscitado dos mortos,'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|finalblessing', 'text' : 'E, fazendo uma grande inclinação diante do altar, diz:'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|dis|chrysostom', 'text' : 'do nosso Pai entre os Santos, João Chrisóstomo, Arcebispo de Constantinopla,'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|li|dis|ofsaint', 'text' : 'dos Santos (...),'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|allsaints|kontakion', 'text' : 'Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!'}

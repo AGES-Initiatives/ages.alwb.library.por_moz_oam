@@ -1,10 +1,13 @@
 A_Resource_Whose_Name = dismissals_por_moz_oam
 
-dis00.resurrection = "que ressuscitastes dentre os mortos (ou a invocação própria da festa senhorial do dia),"
+dis00.resurrection = "ressuscitado dos mortos (ou a invocação própria da festa senhorial do dia),"
 
-dis01 = "Ó Cristo, nosso verdadeiro Deus,"
-dis02 = "pela intercessão da tua puríssima Mãe,"
+dis01 = "Que Cristo, nosso verdadeiro Deus,"
+dis02 = "pelas orações de Sua Puríssima Mãe,"
 
+dis06 = "dos Apóstolos santos gloriosos e ilustres,"
+
+dis09 = "os Santos justos antepassados de Deus, Joaquim e Ana;"
 dis10 = "e de todos os santos,"
 
-dis88 = "tem piedade de nós, ó Filantropo, e salva-nos!"
+dis88 = "tenha piedade de nós e nos salve, pois Ele é infinitamente bom e benevolente."
