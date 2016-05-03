@@ -2,6 +2,8 @@ A_Resource_Whose_Name = prayers_por_moz_oam
 
 Allilouia3.text = "Aleluia, Aleluia, Aleluia."
 
+Allilouia3Doxa.text = "Aleluia, aleluia, aleluia! Glória a ti ó Deus!"
+
 AgiosOTheos.text = "Santo Deus, Santo forte, Santo imortal, tem piedade de nós."
 
 DiEfchonPateron.text = "Pelas orações dos nossos santos padres, Senhor Jesus Cristo, nosso Deus, tem piedade de nós. Amém."
@@ -32,6 +34,7 @@ Thymiama.text = "Nós te oferecemos este incenso, ó Cristo nosso Deus, como um 
 VasilefOuranie.text = "Rei celestial, Consolador, Espírito da verdade, presente em toda parte e ocupando todo lugar, tesouro dos bens e dispensador da vida, vem e habita em nós, purifica-nos de toda a iniqüidade e salva, ó Filantropo, as nossas almas!"
 
 enarxis01 = "Bendito seja o nosso Deus, a todo o momento, agora e sempre e pelos séculos dos séculos."
+enarxis02 = "Bendito seja o Reino do Pai e do Filho e do Espírito Santo, agora e sempre e pelos séculos dos séculos."
 
 pet00 = "Oremos ao Senhor."
 
@@ -75,6 +78,8 @@ pet23 = "Novamente oremos pelos benfeitores e os que trazem suas oferendas a est
 
 pet24 = "Completemos nossa oração ao Senhor."
 
+pet24v = "Prossigamos a nossa oração vespertina ao Senhor!"
+
 pet25m = "Que todo este dia seja perfeito, santo, pacífico e sem pecado, peçamos ao Senhor."
 
 pet26 = "Um anjo de paz, guia fiel e guardião de nossas almas e corpos, peçamos ao Senhor."
@@ -92,6 +97,42 @@ pet31 = "Paz a todos."
 pet32 = "Inclinai vossas cabeças ao Senhor."
 
 pet37 = "A benção do Senhor esteja sobre vós pela Sua graça e Seu amor pela humanidade, a todo o momento, pelos séculos dos séculos."
+
+petCatechumens01 = "Catecúmenos, orai ao Senhor!"
+
+petCatechumens02 = "Pelos catecúmenos, para que o Senhor tenha misericórdia deles, oremos ao Senhor."
+
+petCatechumens04 = "Para que o Senhor os instrua com a palavra da verdade, oremos ao Senhor."
+
+petCatechumens05 = "Para que lhes revele o Evangelho da justiça, oremos ao Senhor."
+
+petCatechumens06 = "Para que os congregue à sua santa Igreja católica e apostólica, oremos ao Senhor."
+
+petCatechumens07 = "Ampara-os, salva-os, tem piedade deles e preserva-os, ó Deus, pela tua graça."
+
+petCatechumens08 = "Catecúmenos, inclinai vossas cabeças ante o Senhor!"
+
+petCatechumens09 = "A fim de que, glorifiquem conosco o teu venerável e magnífico nome, †Pai, Filho e Espírito Santo, agora e sempre e pelos séculos dos séculos."
+
+petCatechumens12 = "Nós fiéis, ainda e sempre em paz, oremos ao Senhor!"
+
+petCatechumens15 = "Oremos pelos nossos irmãos que se preparam para a iluminação e por sua salvação!"
+
+petCatechumens16 = "Para que o Senhor, nosso Deus, os confirme e os fortaleça, oremos ao Senhor."
+
+petCatechumens17 = "Para que os ilumine com a luz da razão e devoção, oremos ao Senhor."
+
+petCatechumens18 = "Para que os faça dignos, em tempo oportuno, do banho da regeneração, do perdão dos pecados e da veste da incorruptibilidade, oremos ao Senhor."
+
+petCatechumens19 = "Para que os faça renascer da água e do Espírito Santo,"
+
+petCatechumens20 = "conceda-lhes a fé perfeita"
+
+petCatechumens21 = "e a união com o seu santo e eleito rebanho, oremos ao Senhor."
+
+petCatechumens22 = "Os que estais para a iluminação, inclinai vossas cabeças ante o Senhor!"
+
+petCatechumens24 = "Pois tu és nossa iluminação e nós te glorificamos, †Pai, Filho e Espírito Santo, agora e sempre pelos séculos dos séculos."
 
 epi02 = "Paz a ti, leitor."
 
@@ -124,6 +165,10 @@ exc03 = "Pois Tu és um Deus bom e benevolente e a Ti rendemos glória, Pai, Fil
 exc05a = "Pois Tu és Santo, ó Deus nosso, e a Ti rendemos glória, Pai, Filho, e Espirito Santo, agora e sempre..."
 
 exc05b = "... e pelos séculos dos séculos."
+
+exc07b = "Pela misericórdia do teu Filho Unigênito com quem és bendito, juntamente com teu santíssimo, bom e vivificante Espírito, agora e sempre e pelos séculos dos séculos. Amém."
+
+exc08 = "Porque tu és nosso Deus e nós te glorificamos, Pai, Filho e Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
 
 exc11 = "Pois Tu és um Deus misericordioso e benevolente, e a Ti rendemos glória, Pai, Filho e Espírito Santo, agora e sempre e pelos séculos dos séculos."
 
