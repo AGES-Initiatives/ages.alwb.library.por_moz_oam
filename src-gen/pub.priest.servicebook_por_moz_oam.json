@@ -233,3 +233,7 @@
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|dis|ofsaint', 'text' : 'dos Santos (...),'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|allsaints|kontakion', 'text' : 'Senhor, Autor da criação, o universo te oferece os mártires revestidos de Deus, como primícias da natureza. Pelas suas orações, e em consideração à Mãe de Deus, guarda a tua Igreja sempre em paz, ó Filantropo!'}
 {'id_' : 'pub|priest|servicebook_por_moz_oam|li|rubric|eachpetition', 'text' : '(e assim a cada súplica)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|pl|troparion|gregoryrome|title', 'text' : 'TROPÁRIO DE SÃO GREGÓRIO, PAPA DE ROMA (TOM 4)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|pl|troparion|gregoryrome|text', 'text' : 'Ó glorioso Gregório, que recebeste de Deus a divina graça, e fortalecido por ela, quisestes seguir o Evangelho obtendo de Cristo a recompensa por tuas obras. Roga, ó bem aventurado, que salve as nossas almas!'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|pl|kontakion|gregoryrome|title', 'text' : 'KONDAKION DE SÃO GREGÓRIO, PAPA DE ROMA (TOM 3)'}
+{'id_' : 'pub|priest|servicebook_por_moz_oam|pl|kontakion|gregoryrome|text', 'text' : 'Ó pai Gregório, tu, que tinhas por imagem a de Jesus Cristo, o Príncipe dos pastores, e dirigindo os rebanhos monacais para o celestial recinto ensinaste a eles os mandamentos de Cristo. Hoje, te alegras com eles nas moradas celestiais.'}
