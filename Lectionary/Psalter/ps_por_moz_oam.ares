@@ -6,6 +6,13 @@ psa17.v2.text = "Amar-te-ei, Senhor, Tu que és a minha força."
 psa17.v3a.text = "O Senhor é o meu apoio, meu refúgio e meu libertador."
 psa17.v33.text = "que me cinge de força e torna irrepreensível o meu caminho."
 
+psa23.v7.text = "Levantai, ó príncipes, as vossas portas; levantai-vos, ó portas eternas, para que entre o Rei da Glória!"
+psa23.v8a.text = "Quem é este Rei da Glória?"
+psa23.v8b.text = "É o Senhor forte e poderoso, o Senhor poderoso nas batalhas."
+psa23.v9.text = "Levantai, ó príncipes, as vossas portas; levantai-vos, ó portas eternas, para que entre o Rei da Glória!"
+psa23.v10a.text = "Quem é este Rei da Glória?"
+psa23.v10b.text = "O Senhor dos Exércitos, esse é o Rei da Glória!"
+
 psa25.v6.text = "Na inocência lavo as minhas mãos e me acerco do teu altar, Senhor,"
 psa25.v7.text = "para ouvir a voz dos teus louvores e proclamar todas as tuas maravilhas."
 psa25.v8.text = "Senhor, eu amo a beleza da tua casa e o lugar onde habita a tua glória."
@@ -39,6 +46,11 @@ psa50.v21b.text = "e sobre o teu altar serão oferecidos novilhos."
 
 psa56.v6.text = "Sê exaltado, ó Deus, acima dos céus e a tua glória se estenda sobre toda a terra."
 
+psa67.v2.text = "Que Deus se levante, e os seus inimigos serão vencidos, que seus adversários fujam diante de sua face!"
+psa67.v3a.text = "Tal como o fumo se dissipa, assim eles sejam dispersos, à semelhança da cera, que se derrete diante do fogo."
+psa67.v3b.text = "Pereçam os ímpios em face de Deus,"
+psa67.v4a.text = "rejubilem os justos em sua presença."
+
 psa89.v1.text = "Senhor, tu tens sido o nosso refúgio de geração em geração."
 
 psa92.v1b.text = "O Senhor é rei e se vestiu de majestade,"
@@ -52,6 +64,7 @@ psa103.text = "Bendize, ó minha alma, ao Senhor: 'Senhor, meu Deus, como és 
 
 psa112.v2alt1.text = "Bendito seja o nome do Senhor de agora e por toda a eternidade."
 
+psa117.v24.text = "Este é o dia que o Senhor fez, exultemos e alegremo-nos nele."
 psa117.v26a.text = "Bendito seja o que vem em nome do Senhor!"
 
 psa118.v12.text = "Bendito és Tu, Senhor, ensina-me os teus estatutos."
